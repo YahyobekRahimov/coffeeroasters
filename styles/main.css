@@ -51,6 +51,7 @@
   font-weight: 900;
   line-height: 72px; /* 100% */
   margin-bottom: 16px;
+  white-space: nowrap;
   width: 44.01%;
 }
 
